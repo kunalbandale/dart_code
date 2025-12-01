@@ -1,2 +1,10 @@
-# dart_code
-Daily Dart practice and learning journey. Contains small programs, concepts, and notes as I learn Dart step by step.
+# Daily Dart Practice
+This repository contains my daily Dart learning progress.  
+I upload small code snippets, exercises, and examples as I study the language step by step.
+
+## 📘 What’s inside
+- Basic Dart syntax
+- Small practice programs
+
+## 🎯 Goal
+Improve my Dart skills for flutter app development.
